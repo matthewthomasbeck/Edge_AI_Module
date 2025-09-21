@@ -9,10 +9,14 @@ Click [here](https://www.matthewthomasbeck.com/pages/edge_ai_module.html) for th
 
 Please consider: if you like it, **star it!**
 
-## Tech Stack:
+## Tech Stack
 - **Language:** *Python*
 - **Libraries:** *threading, queue, time, os, socket, logging, collections.deque, subprocess, signal, sys, random, numpy, opencv-python, openvino, smbus, RPi.GPIO, pigpio, pyserial*
 - **Toolkits:** *OpenVino*
+
+## Basic Information
+
+If you want a cheap way to rapidly-prototype a variety of robots, this module may be for you! It will take a bit of work to set up, but you are guaranteed to save much more money as opposed to buying a something like a Jetson board
 
 ## **(WIP)** Build For Yourself!
 
