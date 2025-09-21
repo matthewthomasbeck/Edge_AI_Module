@@ -7,7 +7,7 @@ Special thanks to [Omar Ferrer](https://www.linkedin.com/in/omar-ferrer-0bb6355a
 
 Click [here](https://www.matthewthomasbeck.com/pages/edge_ai_module.html) for the story behind the build
 
-Please consider: if you like it, **star it!**
+**Please consider:** if you like it, **star it!**
 
 ## Tech Stack
 - **Language:** *Python*
