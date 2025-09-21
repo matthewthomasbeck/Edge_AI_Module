@@ -1,4 +1,4 @@
-![Alt Text](images/edge_ai_module_demo.mp4)
+![Edge AI Module Mk-4](images/edge_ai_module.jpg)
 
 # Edge AI Module
 ### By Matthew Thomas Beck [LinkedIn](https://www.linkedin.com/in/matthewthomasbeck/)
