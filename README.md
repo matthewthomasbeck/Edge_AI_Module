@@ -1,18 +1,18 @@
 ![Edge AI Module Mk-4](images/edge_ai_module.jpg)
 
 # Edge AI Module
-### By Matthew Thomas Beck [LinkedIn](https://www.linkedin.com/in/matthewthomasbeck/)
+### By [Matthew Thomas Beck](https://www.linkedin.com/in/matthewthomasbeck/)
 
-Special thanks to Omar Ferrer [LinkedIn](https://www.linkedin.com/in/omar-ferrer-0bb6355a/) for his help
+Special thanks to [Omar Ferrer](https://www.linkedin.com/in/omar-ferrer-0bb6355a/) for his help
 
-The story behind the build: [Edge AI Module](https://www.matthewthomasbeck.com/pages/edge_ai_module.html)
+Click [here](https://www.matthewthomasbeck.com/pages/edge_ai_module.html) for the story behind the build
 
 Please consider: if you like it, **star it!**
 
 ## Tech Stack:
-- Language: *Python*
-- Libraries: *threading, queue, time, os, socket, logging, collections.deque, subprocess, signal, sys, random, numpy, opencv-python, openvino, smbus, RPi.GPIO, pigpio, pyserial*
-- Toolkits: *OpenVino*
+- **Language:** *Python*
+- **Libraries:** *threading, queue, time, os, socket, logging, collections.deque, subprocess, signal, sys, random, numpy, opencv-python, openvino, smbus, RPi.GPIO, pigpio, pyserial*
+- **Toolkits:** *OpenVino*
 
 ## **(WIP)** Build For Yourself!
 
@@ -20,11 +20,11 @@ Please consider: if you like it, **star it!**
 
 | **Tools** |
 | ----------- |
-| 3D Printer |
-| Soldering Iron |
+| 3D Printer (PLA and TPU) |
+| Soldering Iron (rosin-core solder) |
 | Wire Strippers |
 | Lighter/Heat Gun |
-| Screwdrivers (M2/M3) |
+| Hex Keys (M2/M3) |
 | Good Lighting |
 
 2. Buy all of the required parts, including nylon hardware to assemble the module frame
@@ -55,5 +55,7 @@ Please consider: if you like it, **star it!**
 | x1 XT60H Adapter Set | [Amazon](https://www.amazon.com/JIECHUN-Adapter-Connector-Battery-Charger/dp/B0BLHGR17L/ref=sr_1_7?crid=2A3AF1IL9H5ZJ&dib=eyJ2IjoiMSJ9.FiDHaGTf8BeWanc3XY2BeNsVi3THvyi52_yFeG9ANy82aE6yB-yXIPb_UmhS4U0qm4SfLqdTkC8lBbh8qriKTjKZ_rDT6i_dDQAttfwQF800WOwEq0W8_Cnak0vBlOD3Y4rcuw6DW3o-E5z9lsiLJnSHpPgJhQbLwph3pKLZmB9Jty_JTan-hugMTHjPXfRMu78_88irz4OexB_eK5GQE7t_Icq2eNSQxxi-wWBz_SOx4wPP7XVa9k16PipXmxj5KkwiJydkHYM_HOcIu66FBAWj4ReLx_4S7O1QKHNUA7k.b7W43x4jTFb7LT6EwLjM2oEC_963RF1pq91qbKkty_4&dib_tag=se&keywords=XTC60+adapter&qid=1758422674&sprefix=xtc60+adapt%2Caps%2C232&sr=8-7) |
 
 4. **(WIP)** Follow this tutorial video: (making video)
+
+5. Configure OpenVino for Raspberry Pi 4B using 'OpenVino_Setup.txt' (this was VERY hard, take your time)
 
 5. Use the files/functions found in 'utilities' to accelerate development
