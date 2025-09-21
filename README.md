@@ -31,9 +31,7 @@ If you want a cheap way to rapidly-prototype a variety of robots, this module ma
 | Hex Keys (M2/M3) |
 | Good Lighting |
 
-2. Buy all of the required parts, including nylon hardware to assemble the module frame
-
-3. Purchase the electronics/components as follows:
+2. Purchase the electronics/components as follows:
 
 | **Components** | **(remember, do your own research to save money)** |
 | ----------- | ----------- |
@@ -58,8 +56,10 @@ If you want a cheap way to rapidly-prototype a variety of robots, this module ma
 | x1 XT60H Connector Pairs | [Amazon](https://www.amazon.com/Upgrade-Female-Bullet-Connectors-Battery/dp/B07VRZR5TL/ref=sr_1_2?crid=3N6T3XK812QTD&keywords=XTC+connector&qid=1654285537&sprefix=xtc+connector%2Caps%2C124&sr=8-2) |
 | x1 XT60H Adapter Set | [Amazon](https://www.amazon.com/JIECHUN-Adapter-Connector-Battery-Charger/dp/B0BLHGR17L/ref=sr_1_7?crid=2A3AF1IL9H5ZJ&dib=eyJ2IjoiMSJ9.FiDHaGTf8BeWanc3XY2BeNsVi3THvyi52_yFeG9ANy82aE6yB-yXIPb_UmhS4U0qm4SfLqdTkC8lBbh8qriKTjKZ_rDT6i_dDQAttfwQF800WOwEq0W8_Cnak0vBlOD3Y4rcuw6DW3o-E5z9lsiLJnSHpPgJhQbLwph3pKLZmB9Jty_JTan-hugMTHjPXfRMu78_88irz4OexB_eK5GQE7t_Icq2eNSQxxi-wWBz_SOx4wPP7XVa9k16PipXmxj5KkwiJydkHYM_HOcIu66FBAWj4ReLx_4S7O1QKHNUA7k.b7W43x4jTFb7LT6EwLjM2oEC_963RF1pq91qbKkty_4&dib_tag=se&keywords=XTC60+adapter&qid=1758422674&sprefix=xtc60+adapt%2Caps%2C232&sr=8-7) |
 
-4. **(WIP)** Follow this tutorial video: (making video)
+3. Print out the 3D components as found in the '3D_parts' folder
+
+4. **(WIP)** Follow this tutorial video here ← (currently making video)
 
 5. Configure OpenVino for Raspberry Pi 4B using 'OpenVino_Setup.txt' (this was VERY hard, take your time)
 
-5. Use the files/functions found in 'utilities' to accelerate development
+6. Use the files/functions found in 'utilities' to accelerate development
